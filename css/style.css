@@ -11,15 +11,19 @@
      padding-bottom: 9em;
  }
  .div{
-     background-color:darkgray;
+     background-color:black;
+     color: white;
      width: 15em;
      height: auto;
      font-style: italic;
      font-size: 15px;
-     border: black;
+     border:green;
      border-style: groove;
-     
  }
+ h4{
+     color: red;
+ }
+
 
  .continer{
      display: flex;
@@ -27,6 +31,10 @@
      padding-bottom: 30em; 
  }
 
+ .div:first-child:hover{
+    color: brown;
+    background-color: cornsilk;
+}
  .footer{
      background-color: black;
      color: blanchedalmond;
@@ -35,3 +43,8 @@
      align-content: center;
      
  }
+ .video{
+     justify-self: center;
+ }
+
+
