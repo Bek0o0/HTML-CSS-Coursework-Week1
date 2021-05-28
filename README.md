@@ -12,10 +12,10 @@ The page should **NOT** use any framework like Bootstrap.
 
 It should include the following elements:
 
-- The `.html` page and a linked `.css` file applies a consistent color scheme to links and text on your page.
-- A page header with a title and description for the site.
-- An articles section with three articles, each including a title, summary and a link.
-- A page footer containing info about you or the site.
+- The `.html` page and a linked `.css` file applies a consistent color scheme to links and text on your page. *
+- A page header with a title and description for the site. *
+- An articles section with three articles, each including a title, summary and a link. *
+- A page footer containing info about you or the site.*
 - Proper use of the semantic HTML tags we discussed.
 - Research the `:first-child` pseudo-class and use it to style the first article so that it stands out from the others.
 - Use this website [Lorem Ipsum](http://www.lipsum.com/) to generate random blocks of contents to fill your website.

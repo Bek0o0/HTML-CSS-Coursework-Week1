@@ -6,3 +6,31 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+ .header{
+     position:sticky;
+ }
+ .div{
+     background-color:darkgray;
+     width: 15em;
+     height: auto;
+     font-style: italic;
+     font-size: 15px;
+     border: black;
+     border-style: groove;
+     
+ }
+
+ .continer{
+     display: flex;
+     justify-content: space-between;   
+     padding-bottom: 30em; 
+ }
+
+ .footer{
+     background-color: black;
+     color: blanchedalmond;
+     font-style: italic;
+     font-family: 'Courier New', Courier, monospace;
+     align-content: center;
+     
+ }
